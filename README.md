@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Little Lemon</title>
         <link rel="stylesheet" href="styles.css">
     </head>
     <body>
         <header>
-            <img src="logo.png">
+          <tittle>Little Lemon</tittle>  
         </header>
         <nav>
             <ul>
@@ -27,6 +26,6 @@
             </article>
         </main>
         <footer>
-            <p>opyright Little lemon.</p>
+            <p>Copyright Little lemon.</p>
         </footer>
     </body>
